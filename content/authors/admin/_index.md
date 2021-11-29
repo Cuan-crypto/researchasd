@@ -1,73 +1,75 @@
 ---
 # Display name
-title: Dr Ciara Keenan
+title: Ciara Keenan
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Research Fellow
+# Role/position/tagline
+role: Research Fellow 
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Queen's University, Belfast
-  url: ""
+  url: https://www.qub.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include systematic reviews, meta-analyses, race, ethnicity, diversity, homelessness, disability, vulnerable and marginalised groups, post conflict society. 
 
+# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Evidence Synthesis
 - Information Retrieval
+- Social behaviour
+- Diversity and inclusion
+- R stats
 
+# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc Biostatistics 
+    institution: National University of Ireland, Galway
+    year: 2022
+  - course: PhD Sociology/ Psychology 
+    institution: Queen's University, Belfast
+    year: 2018
+  - course: MSc Autism Spectrum Disorders 
+    institution: Queen's University, Belfast
+    year: 2014
+  - course: BSc (Hons) Social Psychology 
+    institution: University of Ulster, Coleraine
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://twitter.com/MetaEvidence
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+- icon: cv
+icon_pack: ai
+link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
+highlight_name: true
 ---
+Hi. 
+My name is Ciara Keenan and I am a post-doctoral researcher with strong quantitative background and an established international reputation in evidence synthesis methodology. I am proficient with the R statistical environment and use this for all meta-analysis including meta-regression, network meta-analysis, obtaining cluster-robust variances etc. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am most committed to capacity building in evidence synthesis which has led to my work as Founder and Editor of the [meta-evidence blog]( http://meta-evidence.co.uk/) and twitter’s [@evidencerobot]( https://twitter.com/EvidenceRobot) and [@COVID_Evidence](https://twitter.com/COVID_Evidence). I provide regular training and workshops across various evidence synthesis topics and am currently leading several review teams. In conjunction with these roles, I am a Methods Editor and Information Retrieval specialist for Campbell’s Education Coordinating Group (ECG).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+**Fields of concentration:** systematic reviews | meta-analyses | education | race | ethnicity | diversity | homelessness | disability | vulnerable and marginalised groups | post-conflict societies 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

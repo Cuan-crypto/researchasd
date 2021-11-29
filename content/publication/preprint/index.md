@@ -21,7 +21,7 @@ publication_short: ""
 abstract: This is the protocol for a Campbell review. The primary objective for this review is summarising the effectiveness of video-based interventions (VBI) in promoting prosocial behaviours in a population of young people with autism spectrum disorders (ASD). The research questions employed to fulfil this objective include: (1) Do VBI improve prosocial behaviours in children with ASD? (2) Which social skills and interactive behaviours are most successful? (3) Do VBI generally have successful rates of skill generalisation and response maintenance? (4) Do demographic characteristics (age, gender) of participants influence the effectiveness of VBI's?
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes

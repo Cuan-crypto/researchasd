@@ -29,7 +29,7 @@ To help us develop this template and software sustainably under the MIT license,
 
 Please replace the demo images with your own.
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
+- [child with video](https://unsplash.com/photos/SBIak0pKUIE)
 - [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
 - [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
 - Blog posts

@@ -1,9 +1,13 @@
 ---
-title: "PROTOCOL: Video-based interventions for promoting positive social behaviour in children with autism spectrum disorders: a systematic review and meta-analysis"
+title: "An example journal article"
 authors:
 - admin
-date: "2021-05-24T00:00:00Z"
-doi: "10.1002/cl2.1171"
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: This is the protocol for a Campbell review. The primary objective for this review is summarising the effectiveness of video-based interventions (VBI) in promoting prosocial behaviours in a population of young people with autism spectrum disorders (ASD). The research questions employed to fulfil this objective include: (1) Do VBI improve prosocial behaviours in children with ASD? (2) Which social skills and interactive behaviours are most successful? (3) Do VBI generally have successful rates of skill generalisation and response maintenance? (4) Do demographic characteristics (age, gender) of participants influence the effectiveness of VBI's?
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -27,22 +31,22 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: Custom Link
-  url: '#'
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1171
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -51,8 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -61,5 +64,9 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
